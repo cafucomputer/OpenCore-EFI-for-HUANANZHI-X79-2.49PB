@@ -1,0 +1,1 @@
+AFUDOS E249PB.ROM /P /B /N
